@@ -62,7 +62,7 @@ def t_INT(number):
 
 
 # def t_SIN(p):
-#     r' sin '
+#     r'sin'
 #     p.type = 'IF'
 #     return p
 
@@ -92,7 +92,7 @@ precedence = (
     ('left', 'GREATER', 'SAME', 'LESS'),
     ('left', 'PLUS', 'MINUS'),
     ('left', 'MULTIPLY', 'DIVIDE'),
-    ('left', 'POWER', 'SIN', 'COS'),
+    ('left', 'POWER'),
 )
 
 #Dictionary
@@ -148,7 +148,7 @@ def p_expression(tree):
 
 def p_trigonometric(tree):
     '''
-    expression : SIN LEFTPARENTHESIS expression RIGHTPARENTHESIS
+    expression : STRING LEFTPARENTHESIS expression RIGHTPARENTHESIS
     '''
     #print('tree:', tree[0], tree[1], tree[2], tree[3], tree[4])
     if tree[1] == 'sin':
