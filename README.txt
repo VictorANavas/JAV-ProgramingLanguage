@@ -1,11 +1,17 @@
-JAV 
--
-Programing language for kids focusing in coding and mathematical development 
+__________________________________________________________________________________________________________________
+------------------------------------------------------------------------------------------------------------------
 
-_________
+                                          JAV Programing language 
+                           For kids focusing in coding and mathematical development 
+
+------------------------------------------------------------------------------------------------------------------
+The folder for the program will be JAV-FinalProyect
+    * It is documented 
+    * Preview link for the language: https://www.youtube.com/watch?v=tL9zr_HHEKI
+For the rest of the documents, there are just programs that we made to get to the final result
+__________________________________________________________________________________________________________________
 Overview
------------------------------------------------------
-______________________________________
+------------------------------------------------------------------------------------------------------------------
 
 Thanks for choosing our language for your early coding journey. 
 Every young developer must have a basic foundation to start their career. 
@@ -24,9 +30,9 @@ Other tools available are conditions for the more advance students that are will
 
 
 The group experience was very satisfiying since we learned to program in Python and it was an enriching proyect. Also we learned about the libraries PLY an math which are the ones used in the proyect besides system and are all very usefull. Here is the example repository for PLY (https://github.com/dabeaz/ply) its the one we used as example for the proyect. The PLY official page is (https://www.dabeaz.com/ply/ply.html#ply_nn22)
-______________________________________________________________________________________
+__________________________________________________________________________________________________________________
 Key Features
------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
 * Data Types
     * Int
     * Float
@@ -60,12 +66,12 @@ Key Features
     * Csc
     * Cot
     
-_________________________________________________________
+__________________________________________________________________________________________________________________
 Conclusion
------------
+------------------------------------------------------------------------------------------------------------------
 JAV is a basic programing language that is easy to read, write and understand.
 Its main focus is mathematical expressions and algorithms.
 It is designed for children that are still in school but have the desire to program.
 The sky is the limit for the capacity of JAV. Start coding now 
 
-__________
+__________________________________________________________________________________________________________________
