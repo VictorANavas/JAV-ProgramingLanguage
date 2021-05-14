@@ -1,6 +1,6 @@
 JAV 
 -
-Programing language for kids focusing in mathematical development 
+Programing language for kids focusing in coding and mathematical development 
 
 _________
 Overview
